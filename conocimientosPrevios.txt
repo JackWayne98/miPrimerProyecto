@@ -1,3 +1,4 @@
 "Programaci¢n en C/C++" 
 "Desarrollo de video Juegos" 
 "Data Analytics con Python" 
+"Bash Scripting" 
